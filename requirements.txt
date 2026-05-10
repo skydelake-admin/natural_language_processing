@@ -1,2 +1,5 @@
 nltk
 transformers
+sentencepiece
+protobuf
+tiktoken
